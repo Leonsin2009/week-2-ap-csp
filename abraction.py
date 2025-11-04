@@ -27,6 +27,4 @@ def yearsOld():
 
 yearsOld()
 yearsOld()
-yearsOld()2
-2
-2
+yearsOld()
